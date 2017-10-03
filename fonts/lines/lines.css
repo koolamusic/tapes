@@ -1,0 +1,60 @@
+@font-face {
+	font-family: 'UniversLTW01-45Light';
+	src: url('UniversLTW01-45Light.eot');
+	src: url('UniversLTW01-45Light.eot?#iefix') format('embedded-opentype'),
+		url('UniversLTW01-45Light.woff2') format('woff2'),
+		url('UniversLTW01-45Light.woff') format('woff'),
+		url('UniversLTW01-45Light.ttf') format('truetype'),
+		url('UniversLTW01-45Light.svg#UniversLTW01-45Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('BebasNeue.eot');
+	src: url('BebasNeue.eot?#iefix') format('embedded-opentype'),
+		url('BebasNeue.woff2') format('woff2'),
+		url('BebasNeue.woff') format('woff'),
+		url('BebasNeue.ttf') format('truetype'),
+		url('BebasNeue.svg#BebasNeue') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FuturaTEE';
+	src: url('FuturaTEE-Book.eot');
+	src: url('FuturaTEE-Book.eot?#iefix') format('embedded-opentype'),
+		url('FuturaTEE-Book.woff2') format('woff2'),
+		url('FuturaTEE-Book.woff') format('woff'),
+		url('FuturaTEE-Book.ttf') format('truetype'),
+		url('FuturaTEE-Book.svg#FuturaTEE-Book') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lineto';
+	src: url('Lineto-Bold.eot');
+	src: url('Lineto-Bold.eot?#iefix') format('embedded-opentype'),
+		url('Lineto-Bold.woff2') format('woff2'),
+		url('Lineto-Bold.woff') format('woff'),
+		url('Lineto-Bold.ttf') format('truetype'),
+		url('Lineto-Bold.svg#Lineto-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Brown';
+	src: url('Brown-Regular.eot');
+	src: url('Brown-Regular.eot?#iefix') format('embedded-opentype'),
+		url('Brown-Regular.woff2') format('woff2'),
+		url('Brown-Regular.woff') format('woff'),
+		url('Brown-Regular.ttf') format('truetype'),
+		url('Brown-Regular.svg#Brown-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
