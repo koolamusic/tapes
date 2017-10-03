@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Landing page - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Landing_page","wgTitle":"Landing page","wgCurRevisionId":803354542,"wgRevisionId":803354542,"wgArticleId":2789866,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2017","Wikipedia articles needing clarification from January 2016","Wikipedia articles with GND identifiers","Online advertising","Search engine optimization","Internet terminology","Internet advertising methods","Compensation methods"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Landing_page","wgRelevantArticleId":2789866,"wgRequestId":"WdGRjQpAIC4AAEQ3cxMAAAAI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1494741","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.1"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Landing_page"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Landing_page&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Landing_page&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Landing_page"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Landing_page rootpage-Landing_page vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Landing page</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Internet_marketing" class="mw-redirect" title="Internet marketing">online marketing</a>, a <b>landing page</b>, sometimes known as a "<b>lead capture page</b>" or a "<b>lander</b>", or a "<b>destination page</b>", is a single web page that appears in response to clicking on a <a href="/wiki/Search_engine_optimization" title="Search engine optimization">search engine optimized</a> search result or an <a href="/wiki/Ad_serving" title="Ad serving">online advertisement</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The landing page will usually display directed sales copy that is a logical extension of the advertisement, search result or link. Landing pages are used for lead generation. The actions that a visitor takes on a landing page is what determines an advertiser's conversion rate.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Landing pages are often linked to <a href="/wiki/Social_media" title="Social media">social media</a>, e-mail campaigns or <a href="/wiki/Search_engine_marketing" title="Search engine marketing">search engine marketing</a> campaigns in order to enhance the effectiveness of the advertisements. The general goal of a landing page is to convert site visitors into sales or <a href="/wiki/Lead_generation" title="Lead generation">leads</a>. If the goal is to obtain a lead, the landing page will include some method for the visitor to get into contact with the company, usually a phone number, or an inquiry form. If a sale is required, the landing page will usually have a link for the visitor to click, which will then send them to a shopping cart or a checkout area. By <a href="/wiki/Web_analytics" title="Web analytics">analyzing activity</a> generated by the linked URL, marketers can use <a href="/wiki/Click-through_rate" title="Click-through rate">click-through rates</a> and <a href="/wiki/Conversion_rate" class="mw-redirect" title="Conversion rate">conversion rate</a> to determine the success of an advertisement.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types"><span class="tocnumber">1</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#References"><span class="tocnumber">1.1</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Transactional"><span class="tocnumber">1.2</span> <span class="toctext">Transactional</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Origin"><span class="tocnumber">1.3</span> <span class="toctext">Origin</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Typical_format"><span class="tocnumber">1.4</span> <span class="toctext">Typical format</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Landing_page_optimization"><span class="tocnumber">2</span> <span class="toctext">Landing page optimization</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Experimentation-based"><span class="tocnumber">2.1</span> <span class="toctext">Experimentation-based</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#A.2FB_testing"><span class="tocnumber">2.1.1</span> <span class="toctext">A/B testing</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Multivariate_testing"><span class="tocnumber">2.1.2</span> <span class="toctext">Multivariate testing</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Total-experience_testing"><span class="tocnumber">2.1.3</span> <span class="toctext">Total-experience testing</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Message_matching"><span class="tocnumber">2.1.4</span> <span class="toctext">Message matching</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Design_matching"><span class="tocnumber">2.1.5</span> <span class="toctext">Design matching</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References_2"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=1" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are two types of landing pages: <i>reference</i> and <i>transactional</i>.</p>
+<h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <i>reference</i> landing page presents information that is relevant to the visitor. These can display text, images, dynamic compilations of relevant links, or other elements.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Transactional">Transactional</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=3" title="Edit section: Transactional">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The purpose of the <i>transactional</i> landing page is to persuade a visitor to take action by completing a transaction. This is accomplished by providing a form that needs to be filled out. The visitor information is obtained in order to add the visitor’s email address to a mailing list as a prospect. An email campaign can then be developed based on responses to transactional landing pages. The goal is to capture as much information about the visitor as possible. The ultimate goal is to convert the visitor into a customer.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=4" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Landing pages originated with the IT departments of <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> in late 2003 in response to poor online sales of <a href="/wiki/Microsoft_Office" title="Microsoft Office">Office</a>.<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4">[4]</a></sup> The process was tedious and time-consuming. As a result, in 2009, several American startups, including <a href="/w/index.php?title=Unbounce&amp;action=edit&amp;redlink=1" class="new" title="Unbounce (page does not exist)">Unbounce</a>, were formed to simplify and streamline the process. The rise of <a href="/wiki/Cloud_computing" title="Cloud computing">cloud computing</a> and <a href="/wiki/E-commerce" title="E-commerce">e-commerce</a> around 2009 provided ideal conditions for these startups to flourish.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4">[4]</a></sup> Since then the customer requirements changed, requesting integrations with other solutions such as <a href="/wiki/Email_marketing" title="Email marketing">email marketing</a>, lead nurturing and <a href="/wiki/Customer_relationship_management" title="Customer relationship management">customer relationship management</a> systems.</p>
+<h3><span class="mw-headline" id="Typical_format">Typical format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=5" title="Edit section: Typical format">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Landing pages often contain clear, concise action-oriented headlines.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> A good landing page explains the product offer in a clear manner and places visual emphasis on the value of the product or service presented.</p>
+<p>Marketing experts recommend websites remove the navigation menu and limit internal and external links on the page.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The form length mirrors the value of the offer<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (January 2016)">clarification needed</span></a></i>]</sup>. They may also include a relevant image, animation or short video. These pages also tend to contain small icons (i.e. of <a href="/wiki/Facebook" title="Facebook">Facebook</a>, or <a href="/wiki/Twitter" title="Twitter">Twitter</a>) to facilitate <a href="/wiki/Social_media" title="Social media">social media</a> sharing.</p>
+<h2><span class="mw-headline" id="Landing_page_optimization">Landing page optimization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=6" title="Edit section: Landing page optimization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Land page optimization</i> (LPO) is one part of a broader <a href="/wiki/Internet_marketing" class="mw-redirect" title="Internet marketing">Internet marketing</a> process called <a href="/wiki/Conversion_optimization" class="mw-redirect" title="Conversion optimization">conversion optimization</a>, or conversion rate optimization (CRO), with the goal of improving the percentage of visitors to the website that become sales leads and customers. A landing page is a webpage that is displayed when a potential customer clicks an <a href="/wiki/Advertisement" class="mw-redirect" title="Advertisement">advertisement</a> or a <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> result link. This webpage typically displays content that is a relevant extension of the advertisement or link. LPO aims to provide page content and appearance that makes the webpage more appealing to target audiences.</p>
+<p>There are three major types of LPO based on <a href="/wiki/Targeting_(advertising)" class="mw-redirect" title="Targeting (advertising)">targeting</a>:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<ol>
+<li><b>Associative content targeting</b> (also called <i>rule-based optimization</i> or <i>passive targeting</i>). The page content is modified based on information obtained about the visitor's search criteria, geographic information of source traffic, or other known generic parameters that can be used for explicit non-research-based consumer <a href="/wiki/Market_segmentation" title="Market segmentation">segmentation</a>.</li>
+<li><b>Predictive content targeting</b> (also called <i>active targeting</i>). The page content is adjusted by correlating any known information about the visitor (e.g., prior purchase behavior, personal demographic information, browsing patterns, etc.) to anticipate (desired) future actions based on <a href="/wiki/Predictive_analytics" title="Predictive analytics">predictive analytics</a>.</li>
+<li><b>Consumer directed targeting</b> (also called <i>social targeting</i>). The page content is created using the relevance of publicly available information through a mechanism based on reviews, ratings, <a href="/wiki/Tag_(metadata)" title="Tag (metadata)">tagging</a>, referrals, etc.</li>
+</ol>
+<p>There are two major types of LPO based on experimentation:</p>
+<ol>
+<li><b>Closed-ended experimentation</b>. Consumers are exposed to several variations of landing pages, altering elements like headlines, formatting and layout while their behavior is observed in an attempt to remove distractions that will take the lead away from the page, including the primary navigation.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> At the conclusion of the experiment, an optimal page is selected based on the outcome of the experiment.</li>
+<li><b>Open-ended experimentation</b>. This approach is similar to closed-ended experimentation except that more variations will be added for testing and experimentation will not stop when a winner is found. This method is used by large corporation to dynamically improve their conversion rates and improve user experience. Landing page can also be adjusted dynamically as the experiment results change to further enhance user experience.</li>
+</ol>
+<h3><span class="mw-headline" id="Experimentation-based">Experimentation-based</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=7" title="Edit section: Experimentation-based">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Experimentation-based LPO can be achieved using A/B testing, multivariate LPO, and total-experience testing. These methodologies are applicable to both closed- and open-ended experimentation.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<h4><span id="A/B_testing"></span><span class="mw-headline" id="A.2FB_testing">A/B testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=8" title="Edit section: A/B testing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/A/B_testing" title="A/B testing">A/B testing</a>, or <i>A/B split testing</i>, is a method for testing two versions of a webpage: version "A" and version "B". The goal is to test multiple versions of webpages (e.g., home page vs. product page) or one specific element that changes between variation A and variation B (such as having a lead form on the left hand side or having it placed on the right hand side), <a href="/wiki/FAQ" title="FAQ">FAQ</a> to determine which version is most appealing/effective. This testing method may also be known as <i>A/B/n split testing</i>; the <i>n</i> denoting more than 2 tests being measured and compared. The data for A/B testing is usually measured via <a href="/wiki/Click-through_rate" title="Click-through rate">click-through rate</a> or an alternative <a href="/wiki/Conversion_tracking" title="Conversion tracking">conversion tracking</a> method.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Testing can be conducted sequentially or in parallel. In sequential testing, often the easiest to implement, the various versions of the webpages are made available online for a specified time period. In parallel (split) testing, both versions are made available, and the traffic is divided between the two. The results of sequential split testing can be skewed by differing time periods and traffic patterns in which the different tests are run.</p>
+<p>A/B testing has the following advantages:</p>
+<ul>
+<li>Inexpensive because existing resources and tools are used.</li>
+<li>Simple because no complex statistical analysis is required.</li>
+</ul>
+<p>A/B testing has the following disadvantages:</p>
+<ul>
+<li>Difficult to control all external factors (e.g., <a href="/wiki/Advertising_campaign" title="Advertising campaign">campaigns</a>, search traffic, <a href="/wiki/Press_releases" class="mw-redirect" title="Press releases">press releases</a>, <a href="/wiki/Seasonality" title="Seasonality">seasonality</a>) when using sequential testing.</li>
+<li>Very limited in that reliable conclusions cannot be drawn for pages that contain multiple elements that vary in each version.</li>
+</ul>
+<h4><span class="mw-headline" id="Multivariate_testing">Multivariate testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=9" title="Edit section: Multivariate testing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Multivariate_landing_page_optimization" title="Multivariate landing page optimization">Multivariate landing page optimization</a> (MVLPO) accounts for multiple variations of visual elements (e.g., graphics, text) on a page. For example, a given page may have <i>k</i> choices for the title, <i>m</i> choices for the featured image or graphic, and <i>n</i> choices for the company logo. This example yields <i>k×m×n</i> landing page configurations.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<p>Significant improvements can be seen through testing different copy text, form layouts, landing page images and background colours. However, not all elements produce the same improvements in conversions, and by looking at the results from different tests, it is possible to identify the elements that consistently tend to produce the greatest increase in conversions.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<p>The first application of an experimental design for MVLPO was performed by Moskowitz Jacobs Inc. in 1998 as a simulation/demonstration project for <a href="/wiki/Lego" title="Lego">Lego</a>. MVLPO did not become a mainstream approach until 2003 or 2004.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<p>MVLPO has the following advantages:</p>
+<ul>
+<li>Provides a reliable, scientifically based approach for understanding customers' preferences and optimizing their experience.</li>
+<li>Has evolved to be an easy-to-use approach in which not much <a href="/wiki/Information_technology" title="Information technology">IT</a> involvement is required. In many cases, a few lines of <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> allow remote vendor servers to control changes, collect data, and analyze the results.</li>
+<li>Provides a foundation for open-ended experimentation.</li>
+</ul>
+<p>MVLPO has the following disadvantages:</p>
+<ul>
+<li>As with any quantitative consumer research, there is a danger of <a href="/wiki/GIGO" class="mw-redirect" title="GIGO">GIGO</a> (garbage in, garbage out). Ideas that are sourced from known customer <a href="/wiki/Touchpoint" title="Touchpoint">touchpoints</a> or strategic business objectives are needed to obtain optimal results.</li>
+<li>Focuses on optimizing one page at a time. Website experiences for most sites involve multiple pages, which are typically complex. For an <a href="/wiki/E-commerce" title="E-commerce">e-commerce</a> website, it is typical for a successful purchase to involve between twelve and eighteen pages; for a support site, even more pages are often required.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></li>
+</ul>
+<h4><span class="mw-headline" id="Total-experience_testing">Total-experience testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=10" title="Edit section: Total-experience testing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Total-experience testing, or <i>experience testing</i>, is a type of experiment-based testing in which the entire website experience of the visitor is examined using technical capabilities of the website platform (e.g., <a href="/wiki/Art_Technology_Group" title="Art Technology Group">ATG</a>, <a href="/wiki/Blue_Martini_Software" title="Blue Martini Software">Blue Martini Software</a>, etc.). Rather than creating multiple websites, total-experience testing uses the website platform to create several persistent experiences, and monitors which one is preferred by the customers.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<p>An advantage of total-experience testing is that it reflects the customer's total website experience, not just the experience with a single page. Two disadvantages are that total-experience testing requires a website platform that supports experience testing, and it takes longer to obtain results than A/B testing and MVLPO.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<h4><span class="mw-headline" id="Message_matching">Message matching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=11" title="Edit section: Message matching">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Message Matching is the idea of matching the pre-click message to the post-click message on the landing page.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The goal of message matching is to create a landing page that directs individuals to a page on a product or subject they are expecting.</p>
+<p>This could be done by displaying a statement to the visitors utilizing the same keywords and the right images on the landing page that was found in the advertisement they clicked on.<sup id="cite_ref-:0_11-0" class="reference"><a href="#cite_note-:0-11">[11]</a></sup></p>
+<p>The messaging on the page reinforces the reason for their click, reducing or removing confusion and therefore increasing conversion rates. This improves overall user experience and reduces the <a href="/wiki/Bounce_rate" title="Bounce rate">bounce rate</a> (individuals leaving the site without converting or navigating to another portion of the site) for the page. Good message matching can increase conversion by up to 50% in many cases.<sup id="cite_ref-:0_11-1" class="reference"><a href="#cite_note-:0-11">[11]</a></sup></p>
+<h4><span class="mw-headline" id="Design_matching">Design matching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=12" title="Edit section: Design matching">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Design Matching takes the design on the display ad and repeats it on the landing page. Ensuring the look, feel and sentiment is the same in order to smooth the transition between clicking the ad and completing a conversion.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Conversion_path" title="Conversion path">Conversion path</a></li>
+<li><a href="/wiki/Home_page" title="Home page">Home page</a></li>
+<li><a href="/wiki/Landing_page_optimization" class="mw-redirect" title="Landing page optimization">Landing page optimization</a></li>
+<li><a href="/wiki/Multivariate_testing_in_marketing" title="Multivariate testing in marketing">Multivariate testing in marketing</a></li>
+<li><a href="/wiki/Multivariate_landing_page_optimization" title="Multivariate landing page optimization">Multivariate landing page optimization</a></li>
+<li><a href="/wiki/Online_marketing" class="mw-redirect" title="Online marketing">Online marketing</a></li>
+<li><a href="/wiki/Pay_per_click" class="mw-redirect" title="Pay per click">Pay per click</a></li>
+<li><a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></li>
+<li><a href="/wiki/Social_media_optimization" title="Social media optimization">Social media optimization</a></li>
+</ul>
+<h2><span class="mw-headline" id="References_2">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landing_page&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.znetlive.com/blog/search-engine-optimization-seo-terminology/">"Search Engine Optimization Terminology"</a>. 2016-07-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.btitle=Search+Engine+Optimization+Terminology&amp;rft.date=2016-07-15&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.znetlive.com%2Fblog%2Fsearch-engine-optimization-seo-terminology%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.marketing-dictionary.org/Landing+Page">"Landing Page"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.btitle=Landing+Page&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.marketing-dictionary.org%2FLanding%2BPage&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Ash, Tim. <i>Landing Page Optimization: The Definitive Guide to Testing and Tuning for Conversions</i>. Wiley Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-470-17462-5" title="Special:BookSources/0-470-17462-5">0-470-17462-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.aufirst=Tim&amp;rft.aulast=Ash&amp;rft.btitle=Landing+Page+Optimization%3A+The+Definitive+Guide+to+Testing+and+Tuning+for+Conversions&amp;rft.genre=book&amp;rft.isbn=0-470-17462-5&amp;rft.pub=Wiley+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://blog.omniconvert.com/the-history-of-the-landing-pages.html">"The History Of Landing Pages - Omniconvert Blog"</a>. <i>Omniconvert Conversion Rate Optimization Blog</i>. 2016-08-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.atitle=The+History+Of+Landing+Pages+-+Omniconvert+Blog&amp;rft.date=2016-08-17&amp;rft.genre=article&amp;rft.jtitle=Omniconvert+Conversion+Rate+Optimization+Blog&amp;rft_id=https%3A%2F%2Fblog.omniconvert.com%2Fthe-history-of-the-landing-pages.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.referralcandy.com/blog/best-selling-headline-david-ogilvys-copywriting-career-7-others/">"The Best Selling Headline Of David Ogilvy's Copywriting Career (and 7 others!) - Word-of-Mouth and Referral Marketing Blog"</a>. <i>www.referralcandy.com</i>. Visakan Veerasamy blog editor at ReferralCandy<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.atitle=The+Best+Selling+Headline+Of+David+Ogilvy%27s+Copywriting+Career+%28and+7+others%21%29+-+Word-of-Mouth+and+Referral+Marketing+Blog&amp;rft.genre=unknown&amp;rft.jtitle=www.referralcandy.com&amp;rft_id=https%3A%2F%2Fwww.referralcandy.com%2Fblog%2Fbest-selling-headline-david-ogilvys-copywriting-career-7-others%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://thefinancialbrand.com/63081/website-conversions-landing-pages/">"Increase Conversions By Maximizing Your Website Landing Pages"</a>. <i>The Financial Brand</i>. 2017-01-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.atitle=Increase+Conversions+By+Maximizing+Your+Website+Landing+Pages&amp;rft.date=2017-01-05&amp;rft.genre=article&amp;rft.jtitle=The+Financial+Brand&amp;rft_id=https%3A%2F%2Fthefinancialbrand.com%2F63081%2Fwebsite-conversions-landing-pages%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Alex Gofman, Howard Moskowitz, and Tonis Mets. 2009. Integrating Science into Web Design: Consumer Driven Website Optimization. The Journal of Consumer Marketing, 26(4): 286-298. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1108%2F07363760910965882">10.1108/07363760910965882</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Campion, Matthew. <a rel="nofollow" class="external text" href="http://blog.teknicks.com/make-your-landing-pages-convert-faster-than-a-cheetah-on-steroids#.U-T5tmOO2So">"How To Create Landing Pages That Will Increase Your Conversion Rate"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.aufirst=Matthew&amp;rft.aulast=Campion&amp;rft.btitle=How+To+Create+Landing+Pages+That+Will+Increase+Your+Conversion+Rate&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblog.teknicks.com%2Fmake-your-landing-pages-convert-faster-than-a-cheetah-on-steroids%23.U-T5tmOO2So&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wordstream.com/blog/ws/2013/08/13/adwords-conversion-tracking-guide">"Conversion Tracking in AdWords: Complete Guide [PPC U] | WordStream"</a>. <i>www.wordstream.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.atitle=Conversion+Tracking+in+AdWords%3A+Complete+Guide+%5BPPC+U%5D+%7C+WordStream&amp;rft.genre=unknown&amp;rft.jtitle=www.wordstream.com&amp;rft_id=http%3A%2F%2Fwww.wordstream.com%2Fblog%2Fws%2F2013%2F08%2F13%2Fadwords-conversion-tracking-guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://business.monash.edu/marketing/marketing-dictionary/m/message-match">"Message Match - Monash Business School"</a>. <i>business.monash.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.atitle=Message+Match+-+Monash+Business+School&amp;rft.genre=unknown&amp;rft.jtitle=business.monash.edu&amp;rft_id=https%3A%2F%2Fbusiness.monash.edu%2Fmarketing%2Fmarketing-dictionary%2Fm%2Fmessage-match&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://instapage.com/blog/advertising-agency-accelerated-growth-with-landing-pages">"How Message Matching and Landing Pages Build Successful Advertising Agencies"</a>. 2016-04-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALanding+page&amp;rft.atitle=How+Message+Matching+and+Landing+Pages+Build+Successful+Advertising+Agencies&amp;rft.date=2016-04-25&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Finstapage.com%2Fblog%2Fadvertising-agency-accelerated-growth-with-landing-pages&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Search_engine_optimization" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Search_engine_optimization" title="Template:Search engine optimization"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Search_engine_optimization" title="Template talk:Search engine optimization"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Search_engine_optimization&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Search_engine_optimization" style="font-size:114%;margin:0 4em"><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Exclusion standards</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Robots_exclusion_standard" title="Robots exclusion standard">Robots exclusion standard</a></li>
+<li><a href="/wiki/Meta_element" title="Meta element">Meta element</a></li>
+<li><a href="/wiki/Nofollow" title="Nofollow">nofollow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Marketing topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Online_advertising" title="Online advertising">Online advertising</a></li>
+<li><a href="/wiki/Email_marketing" title="Email marketing">Email marketing</a></li>
+<li><a href="/wiki/Display_advertising" title="Display advertising">Display advertising</a></li>
+<li><a href="/wiki/Web_analytics" title="Web analytics">Web analytics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Search marketing</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></li>
+<li><a href="/wiki/Social_media_optimization" title="Social media optimization">Social media optimization</a></li>
+<li><a href="/wiki/Online_identity_management" title="Online identity management">Online identity management</a></li>
+<li><a href="/wiki/Paid_inclusion" title="Paid inclusion">Paid inclusion</a></li>
+<li><a href="/wiki/Pay_per_click" class="mw-redirect" title="Pay per click">Pay per click</a></li>
+<li><a href="/wiki/Google_bomb" title="Google bomb">Google bomb</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Search engine spam</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spamdexing" title="Spamdexing">Spamdexing</a></li>
+<li><a href="/wiki/Web_scraping" title="Web scraping">Web scraping</a></li>
+<li><a href="/wiki/Scraper_site" title="Scraper site">Scraper site</a></li>
+<li><a href="/wiki/Link_farm" title="Link farm">Link farm</a></li>
+<li><a href="/wiki/Link_building" title="Link building">Link building</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Linking</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Backlink" title="Backlink">Backlink</a></li>
+<li><a href="/wiki/Link_building" title="Link building">Link building</a></li>
+<li><a href="/wiki/Link_exchange" title="Link exchange">Link exchange</a></li>
+<li><a href="/wiki/Organic_linking" title="Organic linking">Organic linking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">People</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Danny_Sullivan_(technologist)" title="Danny Sullivan (technologist)">Danny Sullivan</a></li>
+<li><a href="/wiki/Matt_Cutts" title="Matt Cutts">Matt Cutts</a></li>
+<li><a href="/wiki/Vanessa_Fox" title="Vanessa Fox">Vanessa Fox</a></li>
+<li><a href="/wiki/Barry_Schwartz_(technologist)" title="Barry Schwartz (technologist)">Barry Schwartz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geotargeting" title="Geotargeting">Geotargeting</a></li>
+<li><a href="/wiki/Human_search_engine" title="Human search engine">Human search engine</a></li>
+<li><a href="/wiki/Stop_words" title="Stop words">Stop words</a></li>
+<li><a href="/wiki/Poison_words" title="Poison words">Poison words</a></li>
+<li><a href="/wiki/Content_farm" title="Content farm">Content farm</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Web_syndication" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Web_syndication" title="Template:Web syndication"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Web_syndication" title="Template talk:Web syndication"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_syndication&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Web_syndication" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_syndication" title="Web syndication">Web syndication</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<dl>
+<dt>History</dt>
+<dd><a href="/wiki/History_of_blogging" title="History of blogging">Blogging</a></dd>
+<dd><a href="/wiki/History_of_podcasting" title="History of podcasting">Podcasting</a></dd>
+<dd><a href="/wiki/Video_blog" title="Video blog">Video blogging</a></dd>
+<dd><a href="/wiki/History_of_web_syndication_technology" title="History of web syndication technology">Web syndication technology</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Niche_blogging" title="Niche blogging">Types</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Art_blog" title="Art blog">Art</a></li>
+<li><a href="/wiki/Mormon_blogosphere" title="Mormon blogosphere">Bloggernacle</a></li>
+<li><a href="/wiki/Classical_music_blog" title="Classical music blog">Classical music</a></li>
+<li><a href="/wiki/Corporate_blog" title="Corporate blog">Corporate</a></li>
+<li><a href="/wiki/Dream_diary" title="Dream diary">Dream diary</a></li>
+<li><a href="/wiki/Edublog" title="Edublog">Edublog</a></li>
+<li><a href="/wiki/Electronic_journal" title="Electronic journal">Electronic journal</a></li>
+<li><a href="/wiki/Fake_blog" class="mw-redirect" title="Fake blog">Fake</a></li>
+<li><a href="/wiki/List_of_family-and-homemaking_blogs" title="List of family-and-homemaking blogs">Family</a></li>
+<li><a href="/wiki/Fashion_blog" title="Fashion blog">Fashion</a></li>
+<li><a href="/wiki/Food_porn" title="Food porn">Food</a></li>
+<li><a href="/wiki/Health_blog" title="Health blog">Health</a></li>
+<li><a href="/wiki/Glossary_of_blogging#Blawg" title="Glossary of blogging">Law</a></li>
+<li><a href="/wiki/Lifelog" title="Lifelog">Lifelog</a></li>
+<li><a href="/wiki/Litblog" title="Litblog">Litblog</a></li>
+<li><a href="/wiki/MP3_blog" title="MP3 blog">MP3</a></li>
+<li><a href="/wiki/News_blog" class="mw-redirect" title="News blog">News</a></li>
+<li><a href="/wiki/Photoblog" title="Photoblog">Photoblog</a></li>
+<li><a href="/wiki/Police_blog" title="Police blog">Police</a></li>
+<li><a href="/wiki/Political_blog" class="mw-redirect" title="Political blog">Political</a></li>
+<li><a href="/wiki/Prayer_blog" title="Prayer blog">Prayer</a></li>
+<li><a href="/wiki/Project_blog" title="Project blog">Project</a></li>
+<li><a href="/wiki/Reverse_blog" title="Reverse blog">Reverse</a></li>
+<li><a href="/wiki/Travel_blog" class="mw-redirect" title="Travel blog">Travel</a></li>
+<li><a href="/wiki/Warblog" title="Warblog">Warblog</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Technology</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">General</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BitTorrent" title="BitTorrent">BitTorrent</a></li>
+<li><a href="/wiki/Feed_URI_scheme" title="Feed URI scheme">Feed URI scheme</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Features</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Linkback" title="Linkback">Linkback</a></li>
+<li><a href="/wiki/Permalink" title="Permalink">Permalink</a></li>
+<li><a href="/wiki/Ping_(blogging)" title="Ping (blogging)">Ping</a></li>
+<li><a href="/wiki/Pingback" title="Pingback">Pingback</a></li>
+<li><a href="/wiki/Reblogging" title="Reblogging">Reblogging</a></li>
+<li><a href="/wiki/Refback" title="Refback">Refback</a></li>
+<li><a href="/wiki/Rollback_(data_management)" title="Rollback (data management)">Rollback</a></li>
+<li><a href="/wiki/Trackback" title="Trackback">Trackback</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mechanism</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Conversation_threading" title="Conversation threading">Conversation threading</a></li>
+<li><a href="/wiki/Geotagging" title="Geotagging">Geotagging</a></li>
+<li><a href="/wiki/RSS_enclosure" title="RSS enclosure">RSS enclosure</a></li>
+<li><a href="/wiki/FeedSync#Examples" title="FeedSync">Synchronization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Memetics" title="Memetics">Memetics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atom_(standard)" title="Atom (standard)">Atom feed</a></li>
+<li><a href="/wiki/Data_feed" title="Data feed">Data feed</a></li>
+<li><a href="/wiki/Photofeed" title="Photofeed">Photofeed</a></li>
+<li><a href="/wiki/Product_feed" title="Product feed">Product feed</a></li>
+<li><a href="/wiki/RDF_feed" class="mw-redirect" title="RDF feed">RDF feed</a></li>
+<li><a href="/wiki/Web_feed" title="Web feed">Web feed</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/RSS" title="RSS">RSS</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GeoRSS" title="GeoRSS">GeoRSS</a></li>
+<li><a href="/wiki/Media_RSS" title="Media RSS">MRSS</a></li>
+<li><a href="/wiki/RSS_TV" title="RSS TV">RSS TV</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Social</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Livemark" class="mw-redirect" title="Livemark">Livemark</a></li>
+<li><a href="/wiki/Mashup_(web_application_hybrid)" title="Mashup (web application hybrid)">Mashup</a></li>
+<li><a href="/wiki/Inter-process_communication" title="Inter-process communication"><sup>.</sup> pooling</a></li>
+<li><a href="/wiki/Reference_(computer_science)" title="Reference (computer science)">Referencing</a></li>
+<li><a href="/wiki/RSS_editor" title="RSS editor">RSS editor</a></li>
+<li><a href="/wiki/RSS_tracking" title="RSS tracking">RSS tracking</a></li>
+<li><a href="/wiki/Streaming_media" title="Streaming media">Streaming media</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Standard</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/OML" title="OML">OML</a></li>
+<li><a href="/wiki/OPML" title="OPML">OPML</a></li>
+<li><a href="/wiki/RSS_Advisory_Board" title="RSS Advisory Board">RSS Advisory Board</a>—<a href="/wiki/Usenet" title="Usenet">Usenet</a>: <a href="https://en.wiktionary.org/wiki/.net" class="extiw" title="wikt:.net">.net</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> + (<a href="https://en.wiktionary.org/wiki/-let" class="extiw" title="wikt:-let">-let</a>)</li>
+<li><a href="/wiki/XBEL" title="XBEL">XBEL</a></li>
+<li><a href="/wiki/XOXO_(microformat)" title="XOXO (microformat)">XOXO</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Form</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:Audio_podcasts" title="Category:Audio podcasts">Audio podcast</a></li>
+<li><a href="/wiki/Enhanced_podcast" class="mw-redirect" title="Enhanced podcast">Enhanced podcast</a></li>
+<li><a href="/wiki/Mobilecast" class="mw-redirect" title="Mobilecast">Mobilecast</a></li>
+<li><a href="/wiki/Narrowcasting" title="Narrowcasting">Narrowcasting</a></li>
+<li><a href="/wiki/Peercasting" title="Peercasting">Peercasting</a></li>
+<li><a href="/wiki/Screencast" title="Screencast">Screencast</a></li>
+<li><a href="/wiki/Slidecasting" title="Slidecasting">Slidecasting</a></li>
+<li><a href="/wiki/Videocast" class="mw-redirect" title="Videocast">Videocast</a></li>
+<li><a href="/wiki/Webcomic" title="Webcomic">Webcomic</a></li>
+<li><a href="/wiki/Web_series" title="Web series">Web series</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anonymous_blog" title="Anonymous blog">Anonymous blogging</a></li>
+<li><a href="/wiki/Collaborative_blog" class="mw-redirect" title="Collaborative blog">Collaborative blog</a></li>
+<li><a href="/wiki/Columnist" title="Columnist">Columnist</a></li>
+<li><a href="/wiki/Instant_messaging" title="Instant messaging">Instant messaging</a></li>
+<li><a href="/wiki/Liveblogging" title="Liveblogging">Liveblogging</a></li>
+<li><a href="/wiki/Microblogging" title="Microblogging">Microblog</a></li>
+<li><a href="/wiki/Mobile_blogging" title="Mobile blogging">Mobile blogging</a></li>
+<li><a href="/wiki/Roblog" title="Roblog">Roblog</a></li>
+<li><a href="/wiki/Spam_blog" title="Spam blog">Spam blog</a></li>
+<li><a href="/wiki/Video_blog" title="Video blog">Video blogging</a></li>
+<li><a href="/wiki/Motovlog" title="Motovlog">Motovlogging</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Media</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Alternative_media" title="Alternative media">Alternative media</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blog_carnival" class="mw-redirect" title="Blog carnival">Carnivals</a></li>
+<li><a href="/wiki/Blog_fiction" title="Blog fiction">Fiction</a></li>
+<li><a href="/wiki/Journalism" title="Journalism">Journalism</a>
+<ul>
+<li><a href="/wiki/Citizen_journalism" title="Citizen journalism">Citizen</a></li>
+<li><a href="/wiki/Database_journalism" title="Database journalism">Database</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Online_diary" title="Online diary">Online diary</a></li>
+<li><a href="/wiki/List_of_search_engines#Blog" title="List of search engines">Search engines</a></li>
+<li><a href="/wiki/Sideblog" title="Sideblog">Sideblog</a></li>
+<li><a href="/wiki/Blog_software" class="mw-redirect" title="Blog software">Software</a></li>
+<li><a href="/wiki/Web_directory" title="Web directory">Web directory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Micromedia</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_feed_aggregators" title="Comparison of feed aggregators">Aggregation</a>
+<ul>
+<li><a href="/wiki/News_aggregator" title="News aggregator">News</a></li>
+<li><a href="/wiki/Poll_aggregator" title="Poll aggregator">Poll</a></li>
+<li><a href="/wiki/Review_aggregator" title="Review aggregator">Review</a></li>
+<li><a href="/wiki/Search_aggregator" title="Search aggregator">Search</a></li>
+<li><a href="/wiki/Video_aggregator" title="Video aggregator">Video</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atom_(standard)" title="Atom (standard)">Atom</a></li>
+<li><a href="/wiki/AtomPub" class="mw-redirect" title="AtomPub">AtomPub</a></li>
+<li><a href="/wiki/Broadcatching" title="Broadcatching">Broadcatching</a></li>
+<li><a href="/wiki/Hashtag" title="Hashtag">Hashtag</a></li>
+<li><a href="/wiki/NewsML" title="NewsML">NewsML</a>
+<ul>
+<li><a href="/wiki/NewsML_1" title="NewsML 1">1</a></li>
+<li><a href="/wiki/NewsML-G2" title="NewsML-G2">G2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Social_communication" class="mw-redirect" title="Social communication">Social communication</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social software</a></li>
+<li><a href="/wiki/Web_Slice" title="Web Slice">Web Slice</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blogosphere" title="Blogosphere">Blogosphere</a></li>
+<li><a href="/wiki/Escribitionist" title="Escribitionist">Escribitionist</a></li>
+<li><a href="/wiki/Glossary_of_blogging" title="Glossary of blogging">Glossary of blogging</a></li>
+<li><a href="/wiki/Pay_per_click" class="mw-redirect" title="Pay per click">Pay per click</a></li>
+<li><a href="/wiki/Posting_style" title="Posting style">Posting style</a></li>
+<li><a href="/wiki/Slashdot_effect" title="Slashdot effect">Slashdot effect</a></li>
+<li><a href="/wiki/Spam_in_blogs" title="Spam in blogs">Spam in blogs</a></li>
+<li><a href="/wiki/Uses_of_podcasting" title="Uses of podcasting">Uses of podcasting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/7661745-2">7661745-2</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1289
+Cached time: 20171002004605
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.369 seconds
+Preprocessor visited node count: 2307/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87428/2097152 bytes
+Template argument size: 5397/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.163/10.000 seconds
+Lua memory usage: 4.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  316.497      1 -total
+ 45.79%  144.937     10 Template:Citation_needed
+ 38.00%  120.274     10 Template:Fix
+ 27.99%   88.599      1 Template:Reflist
+ 19.42%   61.466     11 Template:Delink
+ 18.55%   58.714     22 Template:Category_handler
+ 14.51%   45.932      6 Template:Cite_web
+ 11.71%   37.061      6 Template:Navbox
+  6.71%   21.230      1 Template:Clarify
+  6.67%   21.120      1 Template:Authority_control
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2789866-0!canonical and timestamp 20171002004609 and revision id 803354542
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Landing_page&amp;oldid=803354542">https://en.wikipedia.org/w/index.php?title=Landing_page&amp;oldid=803354542</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Online_advertising" title="Category:Online advertising">Online advertising</a></li><li><a href="/wiki/Category:Search_engine_optimization" title="Category:Search engine optimization">Search engine optimization</a></li><li><a href="/wiki/Category:Internet_terminology" title="Category:Internet terminology">Internet terminology</a></li><li><a href="/wiki/Category:Internet_advertising_methods" title="Category:Internet advertising methods">Internet advertising methods</a></li><li><a href="/wiki/Category:Compensation_methods" title="Category:Compensation methods">Compensation methods</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2017" title="Category:Articles with unsourced statements from June 2017">Articles with unsourced statements from June 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_January_2016" title="Category:Wikipedia articles needing clarification from January 2016">Wikipedia articles needing clarification from January 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Landing+page" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Landing+page" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Landing_page" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Landing_page" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Landing_page">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Landing_page&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Landing_page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Landing_page" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Landing_page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Landing_page&amp;oldid=803354542" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Landing_page&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1494741" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Landing_page&amp;id=803354542" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Landing+page">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Landing+page&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DLanding%2Bpage%26returnto%3DLanding%2Bpage%26oldid%3D803354542%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Landing_page&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D8%A9_%D9%87%D8%A8%D9%88%D8%B7" title="صفحة هبوط – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Landingpage" title="Landingpage – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje" title="Página de aterrizaje – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Alteri%C4%9Da_pa%C4%9Do" title="Alteriĝa paĝo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Page_de_renvoi" title="Page de renvoi – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Landing_page" title="Landing page – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%93%D7%A3_%D7%A0%D7%97%D7%99%D7%AA%D7%94" title="דף נחיתה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3_%D0%B1%D0%B0%D1%80%D0%B0%D0%BA%D1%87%D0%B0%D1%81%D1%8B" title="Лендинг баракчасы – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Landing_oldal" title="Landing oldal – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Landing_page" title="Landing page – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Landing_page" title="Landing page – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Целевая страница – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0-%D0%B2%D1%96%D1%82%D1%80%D0%B8%D0%BD%D0%B0" title="Сторінка-вітрина – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1494741#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 2 October 2017, at 00:46.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Landing_page&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.369","ppvisitednodes":{"value":2307,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87428,"limit":2097152},"templateargumentsize":{"value":5397,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  316.497      1 -total"," 45.79%  144.937     10 Template:Citation_needed"," 38.00%  120.274     10 Template:Fix"," 27.99%   88.599      1 Template:Reflist"," 19.42%   61.466     11 Template:Delink"," 18.55%   58.714     22 Template:Category_handler"," 14.51%   45.932      6 Template:Cite_web"," 11.71%   37.061      6 Template:Navbox","  6.71%   21.230      1 Template:Clarify","  6.67%   21.120      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.163","limit":"10.000"},"limitreport-memusage":{"value":4201292,"limit":52428800}},"cachereport":{"origin":"mw1289","timestamp":"20171002004605","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1325"});});</script>
+	</body>
+</html>
