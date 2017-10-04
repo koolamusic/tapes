@@ -9,11 +9,11 @@
   ======================================== -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" type="text/css" href="css/bootstrap-reboot.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap-reboot.css" /> -->
 
   <!-- :Load Font and line Icons -->
   <link rel="stylesheet" type="text/css" href="css/ionicons.min.css" />
-  <link rel="stylesheet" type="text/css" href="fonts/lines/lines.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="fonts/lines/lines.css" /> -->
   <!-- End Loading of Basic Asset Files
   ====================================================================== -->
 
@@ -26,6 +26,328 @@
 
 </head>
   <body>
+
+<!-- Start markup for website navigation section -->
+    <nav class="navbar navbar-inverse navbar-toggleable-md navbar-fixed-top" role="navigation">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-target="#navbarToggleMenu" data-toggle="collapse" aria-label="Toggle navigation">
+        <span class="ion-drag"></span>
+      </button>
+      <a class="navbar-brand" href="#">tape/s</a>
+      <div class="collapse navbar-collapse" id="navbarToggleMenu">
+        <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+          <li class="nav-item active"><a class="nav-link" href="#">home<span class="sr-only">(current)</span></a></li>
+          <li class="nav-item"><a class="nav-link" href="#">catalog <ion-icon class="ion-android-arrow-dropdown-circle"></ion-icon></a></li>
+          <li class="nav-item"><a class="nav-link" href="#">men</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">women</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">login</a></li>
+        </ul>
+        <!-- <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form> -->
+      </div>
+    </nav>
+    <!-- End Navigation section markup -->
+
+
+    <!-- Begin category cta section -->
+    <section class="hero-cta">
+    <div class="container">
+      <div class="form-group hero-txt col-md-3">
+        <!-- <h2>Find a Tailor</h2> -->
+        <div class="form-group">
+        <input type="text" class="form-control" placeholder="enter a search keyword">
+        </div>
+        <div class="form-group">
+        <select class="form-control">
+          <option>East Legon</option>
+          <option>Accra</option>
+          <option>Kasoa</option>
+          <option>Tema</option>
+          <option>Kumasi</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  </section>
+
+  <section class="category">
+    <div class="unit">
+    <div class="row">
+      <div class="col col-md-8 no-gutters">
+      <a href="#"><img src="images/800x400h.jpg" width="800px" height="400px" /><h5>Alterations</h5></a>
+      <a href="#"><img src="images/800x400e.jpg" width="800px" height="400px" /><h5>Laundry&Cleaning</h5></a>
+      </div>
+
+      <div class="col-6 col-md-4">
+      <a href="#"><img src="images/533x800.jpg" width="500px" height="800px" /><h5>Bespoke</h5></a>
+      </div>
+    </div>
+  </div>
+  </section>
+  <!-- End category cta section -->
+
+
+<!-- Begin how it works tutorial section -->
+  <section class="htworks clearance">
+    <div class="container">
+        <div class="sc-heading text-center">
+          <h2>How it works</h2>
+          <h4>A brief explanation about how it works</h4>
+        </div>
+
+    <div class="row text-center">
+    <div class="col col-md-3">
+      <ion-icon class="ion-wifi"></ion-icon>
+      <p class="htw-text">Get connected to the internet visit tailor sync and browse from the catalog of feature available on our platform</p>
+    </div>
+
+
+    <div class="col col-md-3">
+      <ion-icon class="ion-wifi"></ion-icon>
+      <p class="htw-text">Get connected to the internet visit tailor sync and browse from the catalog of feature available on our platform</p>
+    </div>
+
+
+    <div class="col col-md-3">
+      <ion-icon class="ion-wifi"></ion-icon>
+      <p class="htw-text">Get connected to the internet visit tailor sync and browse from the catalog of feature available on our platform</p>
+    </div>
+
+
+    <div class="col col-md-3">
+      <ion-icon class="ion-wifi"></ion-icon>
+      <p class="htw-text">Get connected to the internet visit tailor sync and browse from the catalog of feature available on our platform</p>
+    </div>
+
+  </div>
+  </div><!-- End container div -->
+  </section><!-- End how it works tutorial section -->
+
+
+
+<!-- Begin product catalog section -->
+  <section class="catalog clearance">
+    <div class="sc-heading text-center">
+      <h2>Produce at Scale</h2>
+      <h4>Find service offers that can help you maximize productivity</h4>
+    </div>
+
+  <div class="container">
+    <div class="card-group">
+    <div class="card">
+      <img class="card-img-top" src="..." alt="Card image cap">
+      <div class="card-block">
+        <h4 class="card-title">Laundry offer</h4>
+        <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+
+    <!-- Start new card -->
+      <div class="card">
+        <img class="card-img-top" src="..." alt="Tailor offer">
+        <div class="card-block">
+          <h4 class="card-title">5 Shirts Offer</h4>
+          <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+        </div><!-- End div card block -->
+        <div class="card-footer">
+          <small class="text-muted">Vintage Tailors</small>
+        </div>
+      </div>
+      <!-- End the card -->
+
+      <!-- Start new card -->
+        <div class="card">
+          <img class="card-img-top" src="..." alt="Tailor offer">
+          <div class="card-block">
+            <h4 class="card-title">5 Shirts Offer</h4>
+            <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+          </div><!-- End div card block -->
+          <div class="card-footer">
+            <small class="text-muted">Vintage Tailors</small>
+          </div>
+        </div>
+        <!-- End the card -->
+
+
+    <div class="card">
+      <img class="card-img-top" src="..." alt="Card image cap">
+      <div class="card-block">
+        <h4 class="card-title">Alterations </h4>
+        <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+
+
+    <div class="card">
+      <img class="card-img-top" src="..." alt="Card image cap">
+      <div class="card-block">
+        <h4 class="card-title">Bespoke Offer</h4>
+        <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+
+  </div>
+  </section>
+  <!-- End product catalog section -->
+
+
+  <!-- Start user reviews section on Bootstrap Carousels -->
+  <section class="testimonial clearance">
+    <div class="container-fluid">
+        <div id="carouselTestimonial" class="carousel slide" data-ride="carousel" data-interval="9000">
+          <ol class="carousel-indicators" style="bottom:0%;">
+             <li data-target="#carouselTestimonial" data-slide-to="0" class="active"></li>
+             <li data-target="#carouselTestimonial" data-slide-to="1"></li>
+             <li data-target="#carouselTestimonial" data-slide-to="2"></li>
+           </ol>
+
+            <div class="carousel-inner row w-100 mx-auto" role="listbox">
+              <!-- First Testimonial -->
+              <div class="carousel-item col col-12 active">
+                <div class="col col-md-6">
+                    <img class="img-responsive mx-auto d-block" src="//placehold.it/600x400?text=2" alt="slide 0">
+                </div>
+                <div class="col col-md-6">
+                    <img class="img-responsive mx-auto d-block" src="//placehold.it/600x400?text=3" alt="slide 1">
+                </div>
+              </div>
+
+              <!-- Second Testimonial -->
+              <div class="carousel-item col-md-12">
+                <div class="col col-md-6">
+                   <img class="img-fluid mx-auto d-block" src="//placehold.it/600x400?text=02" alt="slide 2">
+               </div>
+               <div class="col col-md-6">
+                   <img class="img-fluid mx-auto d-block" src="//placehold.it/600x400?text=03" alt="slide 3">
+               </div>
+             </div>
+
+              <!-- Third Testimonial -->
+             <div class="carousel-item col-md-12">
+               <div class="col col-md-6">
+                   <img class="img-fluid mx-auto d-block" src="//placehold.it/600x400?text=4" alt="slide 4">
+               </div>
+               <div class="col col-md-6">
+                   <img class="img-fluid mx-auto d-block" src="//placehold.it/600x400?text=5" alt="slide 5">
+               </div>
+             </div>
+            </div><!-- End carousel inner clas with row w-100 -->
+
+            <a class="carousel-control-prev" href="#carouselTestimonial" role="button" data-slide="prev">
+                <i class="ion-android-arrow-dropleft fa-lg text-muted"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next text-faded" href="#carouselTestimonial" role="button" data-slide="next">
+                <i class="ion-android-arrow-dropright text-muted"></i>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+  </section><!-- End section for user testimonials -->
+
+
+
+  <!-- Begin the pre footer call to action section -->
+  <section class="pre-footer clearance">
+    <div class="container-fluid">
+    <div class="row no-gutter text-center">
+      <div class="col col-md-4">
+        <p>Hello World</p>
+      </div>
+
+      <div class="col col-md-4">
+        <p>Hello World</p>
+      </div>
+
+      <div class="col col-md-4">
+        <p>Hello World</p>
+      </div>
+    </div>
+  </section>
+
+
+
+
+    <!-- Dont forget to assign style property to display block for footer anchor elements -->
+    <footer class="clearance footer">
+                  <div class="container">
+
+                    <div class="row ">
+                      <div class="col col-3">
+                        <div class="footer-logo ">
+                          <a href="https://propercloth.com/">
+                            <img src="https://propercloth.com/images/white/PCScissors.png" width="115">
+                          </a>
+                        </div>
+                        Proper Cloth
+                        <br> 495 Broadway
+                        <br> New York, NY 10012
+
+                        <div class="title">About Us</div>
+                        <a rel="nofollow" href="//about">Our Story</a>
+                        <a rel="nofollow" href="//press">Press Coverage</a>
+                        <a rel="nofollow" href="//careers">Careers &amp; Internships</a>
+                        <a rel="nofollow" href="//perfect-fit-guarantee">Perfect Fit Guarantee</a>
+                        <hr>
+                        <a rel="nofollow" href="//terms">Terms &amp; Conditions</a>
+                        <a rel="nofollow" href="//sitemap">Sitemap</a>
+                        <span>© 2017</span>
+                        <hr width="1" size="400px">
+                      </div>
+
+                      <div class="col col-3">
+                        <div class="title">Shop</div>
+                        <a rel="nofollow" href="//dress-shirt-gift-certificate">Gift Certificates</a>
+                        <a rel="nofollow" href="//sizes">Create a Custom Size</a>
+                        <a rel="nofollow" href="//design-a-shirt">Design a Shirt</a>
+                        <a rel="nofollow" href="//fabrics">Shirt Fabrics</a>
+                        <a rel="nofollow" href="//dress-shirts">Shirt Gallery</a>
+                        <a rel="nofollow" href="//collections">Our Collections</a>
+                        <a rel="nofollow" href="//collar-styles">Collar Styles</a>
+                        <a rel="nofollow" href="//accessories">Accessories</a> &nbsp;
+                      </div>
+
+                      <div class="col col-3">
+                        <div class="title">Help</div>
+                        <a rel="nofollow" href="//reference/ordering-fabric-samples/">Ordering Fabric Samples</a>
+                        <a rel="nofollow" href="//reference/category/care/">How to Care for Shirts</a>
+                        <a rel="nofollow" href="//reference/dress-shirt-shrink/">How Dress Shirts Shrink</a>
+                        <a rel="nofollow" href="//reference/category/common-fit-problems/">Common Fit Problems</a>
+                        <a rel="nofollow" href="//reference/dress-shirt-body-measurements/">How to Measure Your Body</a>
+                        <a rel="nofollow" href="//rewards">Earn Rewards</a>
+                        <a rel="nofollow" href="//shipping">Shipping &amp; Fast Delivery</a>
+                      </div>
+
+                      <div class="col col-3">
+                        <div class="title">Support</div>
+                        <a rel="nofollow" href="//dress-shirt-reviews">Customer Reviews</a>
+                        <a rel="nofollow" href="//account/orders">Track an Existing Order</a>
+                        <a rel="nofollow" href="//return-policy">Return Policy</a>
+                        <a rel="nofollow" href="//reference/general-advice-for-requesting-dress-shirt-alterations/">Alterations &amp; Remakes</a>
+                        <a rel="nofollow" href="//reference/category/style/">Style Advice</a>
+                        <a rel="nofollow" href="//reference/special-events/">Special Events</a>
+                        <a rel="nofollow" href="//appointment">Schedule a Fitting</a>
+                        <a rel="nofollow" href="//contact">Contact Us</a> &nbsp;
+                      </div>
+                    </div>
+                  </div>
+                </footer>
+
+
+
+
+
 
 
 
