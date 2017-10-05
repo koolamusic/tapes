@@ -168,6 +168,11 @@ select {
 }
 
 
+/*Featured categories section*/
+.sc-category{
+  min-height: 800px;
+}
+
 /*CSS Markup for the first section of the homepage*/
 .hero-cta{
   background: #47101b url('../images/large2.jpg');

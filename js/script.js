@@ -4,7 +4,7 @@ $('#carouselTestimonial').on('slide.bs.carousel', function (colBreak) {
 
     var $colBreak = $(colBreak.relatedTarget);
     var idx = $colBreak.index();
-    var itemsPerSlide = 1;
+    var itemsPerSlide = 2;
     var totalItems = $('.carousel-item').length;
 
     if (idx >= totalItems-(itemsPerSlide-1)) {
