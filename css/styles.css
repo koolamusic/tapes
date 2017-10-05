@@ -51,11 +51,14 @@ pre {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  text-decoration: none;
 }
 
 a:active,
 a:hover {
   outline-width: 0;
+  text-decoration: none;
+  color:#47101b;
 }
 
 abbr[title] {
@@ -148,7 +151,15 @@ button,
 select {
   text-transform: none;
 }
-
+.btn-outline-success {
+    color: #8e1e34!important;
+    background-color: transparent;
+    border-color: #47101b!important;
+}
+.btn-outline-success:hover{
+  background-color:#47101b!important;
+  color:#fff!important;
+}
 
 
 /*End Bootstrap reboot section */
@@ -164,13 +175,11 @@ select {
   margin: 0 0;
 }
 .clearance{
-  margin:95px 10px 25px 10px;
+  margin:95px 10px 0px 10px;
 }
 
-
-/*Featured categories section*/
-.sc-category{
-  min-height: 800px;
+h1,h2,h3,h4{
+  font-weight: 700;
 }
 
 /*CSS Markup for the first section of the homepage*/
@@ -181,22 +190,169 @@ select {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
+  transition: background-image 1.5s linear;
+  -webkit-transition: background-image 1.5s ease-out;
 }
-.hero-txt{
-  border: 2px solid #eee;
+
+.hero-cta:hover {
+background-image: url('../images/look2b.jpg');
+}
+
+/*.hero-txt{
+  background: rgba(0, 0, 0, 0.84);
+  margin-left: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  position:relative;
+}*/
+
+
+.hero-txt form{
+  border: 1px solid rgba(180,10,0,0.2);
+  background: rgba(0, 0, 0, 0.7);
+  padding: 65px 50px;
+  top: 100px;
+  position: absolute;
+  width: 450px;
+  height: 300px;
+}
+
+.hero-txt .form-control{
+    display: block;
+    width: 100%;
+    padding: .5rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #ffffff;
+    background-color: rgba(167, 154, 154, 0.22);
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .15rem;
+}
+
+
+
+
+/*Featured categories section*/
+.sc-category{
+  min-height: 800px;
+}
+.unit {
+  margin: 0 0!important;
+  padding: 0 0!important;
+}
+
+.unit img:hover{
+  filter: grayscale(95%);
+  transition: .5s;
+}
+
+.unit img{
+  object-fit: cover;
+  width: 100%;
+  top:0;
 
 }
+
+.unit h5{
+  margin-top: -50px;
+  margin-right: 10px;
+  font-size: x-large;
+  line-height: 1.2;
+  color: #47101b;
+  border: 1px solid #47101b;
+  z-index: 2;
+  position: absolute;
+  right: 0;
+  padding: 2px 20px;
+}
+
+
+/*How it works*/
+.htworks{
+  background: #11100b;
+  margin:0 0;
+  padding: 80px 0px;
+  color:#eee;
+
+}
+
+.htworks_content{
+  border: 1px solid #47101b;
+  padding-top: 30px;
+}
+
+.htworks ion-icon{
+  font-size: 70px;
+  text-align: center;
+  color: #47101b;
+}
+
+
+
+/*CATALOG SECTION*/
+.catalog{
+  border-bottom: 1px solid #eee;
+  padding: 40px 0px;
+}
+
+.catalog small{
+  color:#41701b;
+  font-weight: 700;
+}
+.catalog span{
+  color:#47101b;
+  padding-left:8px;
+  font-size: 85%;
+}
+
+.catalog .card{
+  margin-bottom: 10px;
+}
+
+
+
+
+
 
 
 
 
 
 /*css Styling for the Testimonial section*/
+.testimonial{
+  background: #ececec;
+  padding: 40px 20px;
+}
 
+.testimonial__image{
+  max-height: 450px;
+}
 
+.carousel-item{
+  padding: 100px 12px;
+  border:1px solid #eee;
+  /*background: #fff;*/
 
+}
+.carousel-item img{
+  object-fit: cover;
+  max-height: 450px;
+}
 
+.carousel-item .col{
+  background: #fff;
+  padding:30px 30px;
+}
 
+/*Style PreFooter*/
+.pre-footer{
+  margin-top: 0px;
+}
+.pre-footer > .card-group{
+  border-radius: 0px!important;
+  -webkit-border-radius: 0px!important;
+}
 
 
 
