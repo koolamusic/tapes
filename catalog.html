@@ -1,0 +1,546 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Find a Service | Tape Catalogs</title>
+
+  <!-- Load Basic Assets (CSS) Files
+  ======================================== -->
+  <link rel="icon" href="images/favicon.png">
+  <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap-reboot.css" /> -->
+
+  <!-- :Load Font and line Icons -->
+  <link rel="stylesheet" type="text/css" href="css/ionicons.min.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="fonts/lines/lines.css" /> -->
+  <!-- End Loading of Basic Asset Files
+  ====================================================================== -->
+
+
+  <!-- Use CDN to pull bootstrap and ionicons resource for Production
+  ======================================================================================
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
+  ======================= END PRODUCTION READY CDN ===================================== -->
+
+</head>
+  <body>
+
+    <!-- Start markup for website navigation section -->
+    <nav class="navbar navbar-inverse navbar-toggleable-md fixed-top" role="navigation">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-target="#navbarToggleMenu" data-toggle="collapse" aria-label="Toggle navigation">
+        <span class="ion-drag"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">tape/s</a>
+      <div class="collapse navbar-collapse" id="navbarToggleMenu">
+        <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+          <li class="nav-item"><a class="nav-link" href="#">home<span class="sr-only">(current)</span></a></li>
+          <li class="nav-item active"><a class="nav-link" href="catalog.html">catalog <ion-icon class="ion-android-arrow-dropdown-circle"></ion-icon></a></li>
+          <li class="nav-item"><a class="nav-link" href="#">men</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">women</a></li>
+        </ul>
+        <ul class="navbar-nav" style="padding-right:20px;">
+      <li class="nav-item"><a class="nav-link" href="register.html">register</a></li>
+      <li class="nav-item"><a class="nav-link" href="login.html">login</a></li>
+    </ul>
+    <!-- <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="text" placeholder="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form> -->
+    </div>
+  </nav>
+    <!-- End Navigation section markup -->
+
+
+    <!-- Begin category cta section -->
+    <section class="hero-cta" style="height:70vh;">
+    <div class="container-fluid">
+      <div class="hero-txt col col-12 h-100 text-center align-middle align-items-center">
+        <!-- <h2>Find a Tailor</h2> -->
+        <form class="">
+        <div class="form-group">
+        <input type="text" class="form-control" placeholder="enter a search keyword">
+        <!-- <small id="emailHelp" class="form-text text-muted">"Tailor in kasoa"</small> -->
+        </div>
+        <div class="form-group">
+        <select class="form-control">
+          <option>East Legon</option>
+          <option>Accra</option>
+          <option>Kasoa</option>
+          <option>Tema</option>
+          <option>Kumasi</option>
+        </select>
+      </div>
+      <button type="submit" class="btn btn-outline-success btn-block">Submit</button>
+    </div>
+  </form>
+  </div>
+  </section>
+
+<!-- Catalog Filter Vertical Column -->
+<section class="filter-top w-100 d-inline">
+  <div class="container-fluid align-self-center">
+    <ul class="nav nav-tabs nav-justified">
+      <!--<li class="active"><a href="#">Home</a></li>-->
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">SERVICE TYPE<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Alteration</a></li>
+          <li><a href="#">Bespoke</a></li>
+          <li><a href="#">Laundry</a></li>
+          <li><a href="#">Dry Cleaning</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">EXPERIENCE LEVEL<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">1 year</a></li>
+          <li><a href="#">up to 3 years</a></li>
+          <li><a href="#">up to 5 years</a></li>
+          <li><a href="#">7 + years</a></li>
+        </ul>
+      </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">DELIVERY TIME<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#"></a></li>
+          <li><a href="#">24hours</a></li>
+          <li><a href="#">up to 2 days</a></li>
+          <li><a href="#">up to 7 days</a></li>
+        </ul>
+      </li>
+       <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">REGION<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">
+  East Legon</a></li>
+          <li><a href="">Accra</a></li>
+          <li><a href="#">Kumasi</a></li>
+          <li><a href="#">Koforidua</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">PRICE RANGE<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Below GHC<input type="text" class="" id=""></a></li>
+          <li><a href="#">From GHC<input type="text" class="" id="">To GHC<input type="text" class="" id=""></a></li>
+          <li><a href="#">From GHC<input type="text" class="" id=""> To GHC<input type="text" class="" id=""></a></li>
+          <li><a href="#">GHC 00000.00</a></li>
+        </ul>
+      </li>
+      <!--<li><a href="#">Menu 2</a></li>
+      <li><a href="#">Menu 3</a></li>-->
+    </ul>
+  </div>
+</section>
+
+
+<!-- Start catalog filter sidebar -->
+<secion class="catalog_sidebar">
+  <div class="container-fluid">
+    <div class="row">
+
+      <!-- Aside Menu Start -->
+    <div class="col col-12 col-sm-3" style="padding-top:20px;">
+      <div class="sidebar-module">
+        <aside class="" style="min-height: 1000px; border-right:1px solid #ddd;">
+          <div class="container-fluid">
+          <h4 >Refine Results</h4>
+          <hr>
+
+            <h5 class="text-center">Delivery Time</h5>
+          <ul>
+            <li>
+              <label class="form-control">
+                <input type="radio" name="delivery_time" value="1">
+                    Up to 24 hours
+                  </label>
+                </li>
+                <li>
+                  <label class="form-control">
+                      <input type="radio" name="delivery_time" value="3">
+                      Up to 3 days
+                  </label>
+                </li>
+                <li>
+                  <label class="form-control">
+                      <input type="radio" name="delivery_time" value="7">
+                      <span class="radio-img"></span>
+                      Up to 7 days
+                  </label>
+                </li>
+                <li>
+                  <label class="form-control">
+                      <input type="radio" name="delivery_time" value="" checked="checked">
+                      <span class="radio-img"></span>
+                      Any
+                  </label>
+                </li>
+          </ul>
+          <hr>
+
+
+  <h5>Price Range</h5>
+    <ul>
+      <li class="form-group" data-selected="false">
+          <i class="currency">GHC</i> <input type="number" name="gig_price_range" class="form-control">
+          <span class="price-range">To</span>
+          <i class="currency">GHC</i> <input type="number" name="gig_price_range" class="form-control">
+          <button type="submit" class="btn btn-outline-success form-control mt-3">Submit</button>
+      </li>
+    </ul>
+    <hr>
+
+  <h5>Online Status</h5>
+    <ul>
+      <li class="form-control"><label><input type="checkbox" name="is_seller_online" value="true">Show Online Merchants</label></li>
+    </ul>
+    <hr>
+
+    <h5>Response Level</h5>
+      <ul class="form-control">
+        <li><label class="fake-check-black check-text">
+            <input type="checkbox" name="seller_level" value="na">Really Fasts</label>
+        </li>
+        <li><label class="fake-check-black check-text">
+            <input type="checkbox" name="seller_level" value="na">Quite Fast</label>
+        </li>
+        <li><label class="fake-check-black check-text">
+            <input type="checkbox" name="seller_level" value="na">Normal</label>
+        </li>
+        <li><label class="fake-check-black check-text">
+            <input type="checkbox" name="seller_level" value="na">Slow</label>
+        </li>
+        <li><label class="fake-check-black check-text">
+            <input type="checkbox" name="seller_level" value="na">Really Long</label>
+        </li>
+    </ul>
+    <hr>
+
+
+  <h5>Language</h5>
+    <ul>
+      <li class="cf type-checkbox">
+        <label class="fake-check-black check-text">
+          <input type="checkbox" name="seller_language" value="en"><span class="chk-img"></span> English</label>
+      </li>
+      <li class="cf type-checkbox">
+        <label class="fake-check-black check-text">
+          <input type="checkbox" name="seller_language" value="en"><span class="chk-img"></span> Twii</label>
+      </li>
+    </ul>
+
+    <hr>
+
+  <h5>Service Includes</h5>
+</div>
+</aside>
+
+        <!-- Catalog filter menu side bar -->
+      </div>
+    </div><!-- Close Catalog filter section -->
+
+
+
+  <div class="col col-12 col-sm-9">
+    <!-- Begin product catalog section -->
+      <section class="catalog sc-heading">
+      <div class="container-fluid">
+        <div class="card-deck">
+
+
+        <div class="card">
+          <img class="card-img-top" src="//source.unsplash.com/collection/474017/256x181" alt="Card image cap">
+          <div class="card-block">
+            <h4 class="card-title">Laundry offer<span>GHC 100</span></h4>
+            <p class="card-text">Get your favorite vintage shirts delivered to you at ...</p>
+            <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+          </div>
+          <div class="card-footer">
+            <small class="catalog_cite">Vintage Tailors</small>
+          </div>
+        </div>
+
+        <!-- Start new card -->
+          <div class="card">
+            <img class="card-img-top w-100" src="images/tailx.jpg" alt="Tailor offer">
+            <div class="card-block">
+              <h4 class="card-title">5 Shirts Offer<span>GHC 230</span></h4>
+              <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+              <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+            </div><!-- End div card block -->
+            <div class="card-footer">
+              <small class="catalog_cite">Vintage Tailors</small>
+            </div>
+          </div>
+          <!-- End the card -->
+
+        <div class="card">
+          <img class="card-img-top" src="//source.unsplash.com/collection/474017/256x181" alt="Card image cap">
+          <div class="card-block">
+            <h4 class="card-title">Alterations<span>GHC 80</span></h4>
+            <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+            <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+          </div>
+          <div class="card-footer">
+            <small class="catalog_cite">Vintage Tailors</small>
+          </div>
+        </div>
+
+
+        <div class="card">
+          <img class="card-img-top w-100" src="images/tailxx.jpg" alt="Card image cap">
+          <div class="card-block">
+            <h4 class="card-title">Bespoke Offer<span>GHC 43</span></h4>
+            <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+            <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+          </div>
+          <div class="card-footer">
+            <small class="catalog_cite">Vintage Tailors</small>
+          </div>
+        </div>
+
+      <div class="card">
+        <img class="card-img-top" src="//source.unsplash.com/collection/474017/256x181" alt="Card image cap">
+        <div class="card-block">
+          <h4 class="card-title">Laundry offer<span>GHC 100</span></h4>
+          <p class="card-text">Get your favorite vintage shirts delivered to you at ...</p>
+          <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+        </div>
+        <div class="card-footer">
+          <small class="catalog_cite">Vintage Tailors</small>
+        </div>
+      </div>
+
+      <!-- Start new card -->
+        <div class="card">
+          <img class="card-img-top w-100" src="images/tailx.jpg" alt="Tailor offer">
+          <div class="card-block">
+            <h4 class="card-title">5 Shirts Offer<span>GHC 230</span></h4>
+            <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+            <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+          </div><!-- End div card block -->
+          <div class="card-footer">
+            <small class="catalog_cite">Vintage Tailors</small>
+          </div>
+        </div>
+        <!-- End the card -->
+
+      <div class="card">
+        <img class="card-img-top" src="//source.unsplash.com/collection/474017/256x181" alt="Card image cap">
+        <div class="card-block">
+          <h4 class="card-title">Alterations<span>GHC 80</span></h4>
+          <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+          <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+        </div>
+        <div class="card-footer">
+          <small class="catalog_cite">Vintage Tailors</small>
+        </div>
+      </div>
+
+
+      <div class="card">
+        <img class="card-img-top w-100" src="images/tailxx.jpg" alt="Card image cap">
+        <div class="card-block">
+          <h4 class="card-title">Bespoke Offer<span>GHC 43</span></h4>
+          <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+          <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+        </div>
+        <div class="card-footer">
+          <small class="catalog_cite">Vintage Tailors</small>
+        </div>
+      </div>
+
+
+        <div class="card">
+          <img class="card-img-top" src="//source.unsplash.com/collection/474017/256x181" alt="Card image cap">
+          <div class="card-block">
+            <h4 class="card-title">Laundry offer<span>GHC 100</span></h4>
+            <p class="card-text">Get your favorite vintage shirts delivered to you at ...</p>
+            <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+          </div>
+          <div class="card-footer">
+            <small class="catalog_cite">Vintage Tailors</small>
+          </div>
+        </div>
+
+        <!-- Start new card -->
+          <div class="card">
+            <img class="card-img-top w-100" src="images/tailx.jpg" alt="Tailor offer">
+            <div class="card-block">
+              <h4 class="card-title">5 Shirts Offer<span>GHC 230</span></h4>
+              <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+              <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+            </div><!-- End div card block -->
+            <div class="card-footer">
+              <small class="catalog_cite">Vintage Tailors</small>
+            </div>
+          </div>
+          <!-- End the card -->
+
+        <div class="card">
+          <img class="card-img-top" src="//source.unsplash.com/collection/474017/256x181" alt="Card image cap">
+          <div class="card-block">
+            <h4 class="card-title">Alterations<span>GHC 80</span></h4>
+            <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+            <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+          </div>
+          <div class="card-footer">
+            <small class="catalog_cite">Vintage Tailors</small>
+          </div>
+        </div>
+
+
+        <div class="card">
+          <img class="card-img-top w-100" src="images/tailxx.jpg" alt="Card image cap">
+          <div class="card-block">
+            <h4 class="card-title">Bespoke Offer<span>GHC 43</span></h4>
+            <p class="card-text">Get your favorite vintage shirts delivered to you at ... </p>
+            <small class="text-left">East Legon, Accra <span class="catalog_cite justify-content-sm-end">East Accra</span></small>
+          </div>
+          <div class="card-footer">
+            <small class="catalog_cite">Vintage Tailors</small>
+          </div>
+        </div>
+
+
+
+      </div>
+      </div>
+      </section>
+      <!-- End product catalog section -->
+
+
+  </div>
+</div>
+</div>
+
+
+
+  <!-- PreFooter section with a clearfix and card block hack on img tags within bt cards to allow anchor tags  -->
+  <section class="pre-footer" style="margin-top:130px;">
+    <div class="card-group">
+      <div class="card pre-footer_card">
+          <img class="card-img-top" src="//source.unsplash.com/collection/906559/401x401" alt="Card image cap">
+        <div class="card-block">
+          <h4 class="card-title">News/Press</h4>
+          <!-- <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+        </div>
+      </div>
+      <div class="card pre-footer_card">
+      <a href="#" class="card-block clearfix"><img class="card-img-top" src="//source.unsplash.com/collection/906559/400x400" alt="Card image cap" /></a>
+        <div class="card-block">
+          <h4 class="card-title">Additional Support</h4>
+          <!-- <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p> -->
+        </div>
+      </div>
+      <div class="card pre-footer_card">
+      <img class="card-img-top" src="//source.unsplash.com/collection/906559/402x402" alt="Card image cap" />
+        <div class="card-block">
+          <h4 class="card-title">Chat/Support</h4>
+          <!-- <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p> -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<!-- Dont forget to assign style property to display block for footer anchor elements -->
+<footer class="clearance d-block footer">
+              <div class="container">
+
+                <div class="row ">
+                  <div class="col col-3">
+                    <div class="footer-logo ">
+                      <a href="/">
+                        <img src="images/tape_bw_120.png">
+                      </a>
+                    </div>
+                  Tailor Sync
+                    <br> 4425 Broadway
+                    <br> New York, NY 10012
+
+                    <div class="title">About Us</div>
+                    <a rel="nofollow" href="//about">Our Story</a>
+                    <a rel="nofollow" href="//press">Press Coverage</a>
+                    <a rel="nofollow" href="//careers">Careers &amp; Internships</a>
+                    <a rel="nofollow" href="//perfect-fit-guarantee">Perfect Fit Guarantee</a>
+                    <hr>
+                    <a rel="nofollow" href="//terms">Terms &amp; Conditions</a>
+                    <a rel="nofollow" href="//sitemap">Sitemap</a>
+                    <span>© 2017</span>
+                    <hr width="1" size="400px">
+                  </div>
+
+                  <div class="col col-3 footer_nologo">
+                    <div class="title">Shop</div>
+                    <a rel="nofollow" href="//dress-shirt-gift-certificate">Gift Certificates</a>
+                    <a rel="nofollow" href="//sizes">Create a Custom Size</a>
+                    <a rel="nofollow" href="//design-a-shirt">Design a Shirt</a>
+                    <a rel="nofollow" href="//fabrics">Shirt Fabrics</a>
+                    <a rel="nofollow" href="//dress-shirts">Shirt Gallery</a>
+                    <a rel="nofollow" href="//collections">Our Collections</a>
+                    <a rel="nofollow" href="//collar-styles">Collar Styles</a>
+                    <a rel="nofollow" href="//accessories">Accessories</a> &nbsp;
+                  </div>
+
+                  <div class="col col-3 footer_nologo">
+                    <div class="title">Help</div>
+                    <a rel="nofollow" href="//reference/ordering-fabric-samples/">Ordering Fabric Samples</a>
+                    <a rel="nofollow" href="//reference/category/care/">How to Care for Shirts</a>
+                    <a rel="nofollow" href="//reference/dress-shirt-shrink/">How Dress Shirts Shrink</a>
+                    <a rel="nofollow" href="//reference/category/common-fit-problems/">Common Fit Problems</a>
+                    <a rel="nofollow" href="//reference/dress-shirt-body-measurements/">How to Measure Your Body</a>
+                    <a rel="nofollow" href="//rewards">Earn Rewards</a>
+                    <a rel="nofollow" href="//shipping">Shipping &amp; Fast Delivery</a>
+                  </div>
+
+                  <div class="col col-3 footer_nologo">
+                    <div class="title">Support</div>
+                    <a rel="nofollow" href="//dress-shirt-reviews">Customer Reviews</a>
+                    <a rel="nofollow" href="//account/orders">Track an Existing Order</a>
+                    <a rel="nofollow" href="//return-policy">Return Policy</a>
+                    <a rel="nofollow" href="//reference/general-advice-for-requesting-dress-shirt-alterations/">Alterations &amp; Remakes</a>
+                    <a rel="nofollow" href="//reference/category/style/">Style Advice</a>
+                    <a rel="nofollow" href="//reference/special-events/">Special Events</a>
+                    <a rel="nofollow" href="//appointment">Schedule a Fitting</a>
+                    <a rel="nofollow" href="//contact">Contact Us</a> &nbsp;
+                  </div>
+                </div>
+              </div>
+            </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Load JAVASCRIPT Assets Here
+======================================== -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!-- ===================================
+============== End Javascript Assets  -->
+
+
+<!-- Load Javascript Resources via CDN === Production Level ===============================
+===========================================================================================
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+=========================================================================================== -->
+</body>
+</html>

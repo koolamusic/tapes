@@ -1,0 +1,297 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Tapes | Sync a Tailor</title>
+
+  <!-- Load Basic Assets (CSS) Files
+  ======================================== -->
+  <link rel="icon" href="images/favicon.png">
+  <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap-reboot.css" /> -->
+
+  <!-- :Load Font and line Icons -->
+  <link rel="stylesheet" type="text/css" href="css/ionicons.min.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="fonts/lines/lines.css" /> -->
+  <!-- End Loading of Basic Asset Files
+  ====================================================================== -->
+
+
+  <!-- Use CDN to pull bootstrap and ionicons resource for Production
+  ======================================================================================
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
+  ======================= END PRODUCTION READY CDN ===================================== -->
+
+</head>
+  <body>
+    <style>
+    .wrapper {
+	margin-top: 120px;
+	margin-bottom: 180px;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+.form-signin {
+  max-width: 420px;
+  padding: 30px 38px 66px;
+  margin: 0 auto;
+  background-color: #fefefe;
+  border: 3px dotted rgba(0,0,0,0.1);
+  }
+
+.form-signin-heading {
+  text-align:center;
+  margin-bottom: 30px;
+}
+
+.form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+}
+
+input[type="text"] {
+  margin-bottom: 20px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  font-family: 'FuturaTEE', sans-serif;
+}
+
+input[type="password"] {
+  margin-bottom: 30px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  font-family: 'FuturaTEE', sans-serif;
+}
+
+.colorgraph {
+  height: 7px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+</style>
+
+
+<!-- Start markup for website navigation section -->
+    <nav class="navbar navbar-inverse navbar-toggleable-md fixed-top" role="navigation">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-target="#navbarToggleMenu" data-toggle="collapse" aria-label="Toggle navigation">
+        <span class="ion-drag"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">tape/s</a>
+      <div class="collapse navbar-collapse" id="navbarToggleMenu">
+        <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+          <li class="nav-item active"><a class="nav-link" href="#">home<span class="sr-only">(current)</span></a></li>
+          <li class="nav-item"><a class="nav-link" href="catalog.html">catalog <ion-icon class="ion-android-arrow-dropdown-circle"></ion-icon></a></li>
+          <li class="nav-item"><a class="nav-link" href="#">men</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">women</a></li>
+          <li class="nav-item"><a class="nav-link" href="login.html">login</a></li>
+        </ul>
+        <ul class="navbar-nav" style="padding-right:20px;">
+      <li class="nav-item"><a class="nav-link" href="register.html">register</a></li>
+      <li class="nav-item"><a class="nav-link" href="login.html">login</a></li>
+    </ul>
+      </div>
+    </nav>
+    <!-- End Navigation section markup -->
+
+
+
+
+
+
+
+
+          <div class="container-fluid">
+            <div class="row">
+        	<div class="wrapper col col-12 col-md-6">
+        		<form action="" method="post" name="Login_Form" class="form-signin">
+        		    <h3 class="form-signin-heading">Welcome Back! Please Sign In</h3>
+        			  <hr class="colorgraph"><br>
+
+        			  <input type="text" class="form-control" name="Username" placeholder="Username" required="" autofocus="" />
+        			  <input type="password" class="form-control" name="Password" placeholder="Password" required=""/>
+
+        			  <button class="btn btn-outline-success btn-block"  name="Submit" value="Login" type="Submit">Login</button>
+        		</form>
+        	</div>
+
+          <div class="col col-12 col-md-6 login-bg">
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Start user reviews section on Bootstrap Carousels -->
+    <section class="testimonial">
+      <div class="container-fluid">
+          <div id="carouselTestimonial" class="carousel slide" data-ride="carousel" data-interval="9000">
+            <ol class="carousel-indicators tc_color" style="bottom:0%;">
+               <li data-target="#carouselTestimonial" data-slide-to="0" class="active"></li>
+               <li data-target="#carouselTestimonial" data-slide-to="1"></li>
+               <li data-target="#carouselTestimonial" data-slide-to="2"></li>
+             </ol>
+
+              <div class="carousel-inner row w-100 mx-auto" role="listbox">
+                <!-- First Testimonial -->
+                <div class="carousel-item col col-12 active">
+                  <div class="col col-md-6 no-gutters">
+                      <img class="img-fluid mx-auto d-block testimonial__image" src="images/testimonial/buyer1.jpg" alt="slide 0">
+                  </div>
+                  <div class="col col-md-6 d-flex align-items-center">
+                    <blockquote class="blockquote blockquote-reverse">
+                      <h3 class="mb-0"><span class="">Best Service to Find Tailors</span></h3>
+                        <p class="mb-0 align-middle">The work is so professional,it's <span class="desktop-br"></span>really amazing.</p>
+                          <footer class="blockquote-footer">Andrew mark, Senior Lecturer</footer>
+                    </blockquote>
+                  </div>
+                </div>
+
+                <!-- Second Testimonial -->
+                <div class="carousel-item col-md-12">
+                  <div class="col col-md-6">
+                     <img class="img-fluid mx-auto d-block testimonial__image" src="images/testimonial/buyer2.jpg" alt="slide 2">
+                 </div>
+                 <div class="col col-md-6 d-flex align-items-center">
+                   <blockquote class="blockquote blockquote-reverse">
+                     <h3 class="mb-0"><span class="">Best Bespoke Service</span></h3>
+                       <p class="mb-0 align-middle">The work is so professional,it's <span class="desktop-br"></span>really amazing.</p>
+                         <footer class="blockquote-footer">Irina Lebedeva, Community Evangelist Developer</footer>
+                   </blockquote>
+                 </div>
+               </div>
+
+                <!-- Third Testimonial -->
+               <div class="carousel-item col-md-12">
+                 <div class="col col-md-6">
+                     <img class="img-fluid mx-auto d-block testimonial__image" src="images/testimonial/buyer3.jpg" alt="slide 4">
+                 </div>
+                 <div class="col col-md-6  d-flex align-items-center">
+                   <blockquote class="blockquote blockquote-reverse">
+                     <h3 class="mb-0"><span class="">Quality Premium Offers</span></h3>
+                       <p class="mb-0 align-middle">The work is so professional,it's <span class="desktop-br"></span>really amazing.</p>
+                         <footer class="blockquote-footer">Irina Lebedeva, Community Evangelist Developer</footer>
+                   </blockquote>
+                 </div>
+               </div>
+              </div><!-- End carousel inner clas with row w-100 -->
+
+              <a class="carousel-control-prev" href="#carouselTestimonial" role="button" data-slide="prev">
+                  <i class="ion-android-arrow-dropleft fa-lg text-muted"></i>
+                  <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next text-faded" href="#carouselTestimonial" role="button" data-slide="next">
+                  <i class="ion-android-arrow-dropright text-muted"></i>
+                  <span class="sr-only">Next</span>
+              </a>
+          </div>
+      </div>
+    </section><!-- End section for user testimonials -->
+
+
+
+      <!-- Dont forget to assign style property to display block for footer anchor elements -->
+      <footer class="clearance d-block footer">
+                    <div class="container">
+
+                      <div class="row ">
+                        <div class="col col-3">
+                          <div class="footer-logo ">
+                            <a href="/">
+                              <img src="images/tape_bw_120.png">
+                            </a>
+                          </div>
+                        Tailor Sync
+                          <br> 4425 Broadway
+                          <br> New York, NY 10012
+
+                          <div class="title">About Us</div>
+                          <a rel="nofollow" href="//about">Our Story</a>
+                          <a rel="nofollow" href="//press">Press Coverage</a>
+                          <a rel="nofollow" href="//careers">Careers &amp; Internships</a>
+                          <a rel="nofollow" href="//perfect-fit-guarantee">Perfect Fit Guarantee</a>
+                          <hr>
+                          <a rel="nofollow" href="//terms">Terms &amp; Conditions</a>
+                          <a rel="nofollow" href="//sitemap">Sitemap</a>
+                          <span>© 2017</span>
+                          <hr width="1" size="400px">
+                        </div>
+
+                        <div class="col col-3 footer_nologo">
+                          <div class="title">Shop</div>
+                          <a rel="nofollow" href="//dress-shirt-gift-certificate">Gift Certificates</a>
+                          <a rel="nofollow" href="//sizes">Create a Custom Size</a>
+                          <a rel="nofollow" href="//design-a-shirt">Design a Shirt</a>
+                          <a rel="nofollow" href="//fabrics">Shirt Fabrics</a>
+                          <a rel="nofollow" href="//dress-shirts">Shirt Gallery</a>
+                          <a rel="nofollow" href="//collections">Our Collections</a>
+                          <a rel="nofollow" href="//collar-styles">Collar Styles</a>
+                          <a rel="nofollow" href="//accessories">Accessories</a> &nbsp;
+                        </div>
+
+                        <div class="col col-3 footer_nologo">
+                          <div class="title">Help</div>
+                          <a rel="nofollow" href="//reference/ordering-fabric-samples/">Ordering Fabric Samples</a>
+                          <a rel="nofollow" href="//reference/category/care/">How to Care for Shirts</a>
+                          <a rel="nofollow" href="//reference/dress-shirt-shrink/">How Dress Shirts Shrink</a>
+                          <a rel="nofollow" href="//reference/category/common-fit-problems/">Common Fit Problems</a>
+                          <a rel="nofollow" href="//reference/dress-shirt-body-measurements/">How to Measure Your Body</a>
+                          <a rel="nofollow" href="//rewards">Earn Rewards</a>
+                          <a rel="nofollow" href="//shipping">Shipping &amp; Fast Delivery</a>
+                        </div>
+
+                        <div class="col col-3 footer_nologo">
+                          <div class="title">Support</div>
+                          <a rel="nofollow" href="//dress-shirt-reviews">Customer Reviews</a>
+                          <a rel="nofollow" href="//account/orders">Track an Existing Order</a>
+                          <a rel="nofollow" href="//return-policy">Return Policy</a>
+                          <a rel="nofollow" href="//reference/general-advice-for-requesting-dress-shirt-alterations/">Alterations &amp; Remakes</a>
+                          <a rel="nofollow" href="//reference/category/style/">Style Advice</a>
+                          <a rel="nofollow" href="//reference/special-events/">Special Events</a>
+                          <a rel="nofollow" href="//appointment">Schedule a Fitting</a>
+                          <a rel="nofollow" href="//contact">Contact Us</a> &nbsp;
+                        </div>
+                      </div>
+                    </div>
+                  </footer>
+
+
+  <!-- Load JAVASCRIPT Assets Here
+  ======================================== -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <!-- ===================================
+  ============== End Javascript Assets  -->
+
+
+  <!-- Load Javascript Resources via CDN === Production Level ===============================
+  ===========================================================================================
+  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  =========================================================================================== -->
+    </body>
+  </html>
