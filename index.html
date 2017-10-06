@@ -29,7 +29,7 @@
   <body>
 
 <!-- Start markup for website navigation section -->
-    <nav class="navbar navbar-inverse navbar-toggleable-md navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-inverse navbar-toggleable-md fixed-top" role="navigation">
       <button class="navbar-toggler navbar-toggler-right" type="button" data-target="#navbarToggleMenu" data-toggle="collapse" aria-label="Toggle navigation">
         <span class="ion-drag"></span>
       </button>
@@ -208,7 +208,7 @@
   <section class="testimonial">
     <div class="container-fluid">
         <div id="carouselTestimonial" class="carousel slide" data-ride="carousel" data-interval="9000">
-          <ol class="carousel-indicators" style="bottom:0%;">
+          <ol class="carousel-indicators tc_color" style="bottom:0%;">
              <li data-target="#carouselTestimonial" data-slide-to="0" class="active"></li>
              <li data-target="#carouselTestimonial" data-slide-to="1"></li>
              <li data-target="#carouselTestimonial" data-slide-to="2"></li>
@@ -220,7 +220,7 @@
                 <div class="col col-md-6 no-gutters">
                     <img class="img-fluid mx-auto d-block testimonial__image" src="images/testimonial/buyer1.jpg" alt="slide 0">
                 </div>
-                <div class="col col-md-6 d-flex h-75 align-items-center">
+                <div class="col col-md-6 d-flex align-items-center">
                   <blockquote class="blockquote blockquote-reverse">
                     <h3 class="mb-0"><span class="">Best Service to Find Tailors</span></h3>
                       <p class="mb-0 align-middle">The work is so professional,it's <span class="desktop-br"></span>really amazing.</p>
@@ -234,7 +234,7 @@
                 <div class="col col-md-6">
                    <img class="img-fluid mx-auto d-block testimonial__image" src="images/testimonial/buyer2.jpg" alt="slide 2">
                </div>
-               <div class="col col-md-6 d-flex h-75 align-items-center">
+               <div class="col col-md-6 d-flex align-items-center">
                  <blockquote class="blockquote blockquote-reverse">
                    <h3 class="mb-0"><span class="">Best Bespoke Service</span></h3>
                      <p class="mb-0 align-middle">The work is so professional,it's <span class="desktop-br"></span>really amazing.</p>
@@ -248,7 +248,7 @@
                <div class="col col-md-6">
                    <img class="img-fluid mx-auto d-block testimonial__image" src="images/testimonial/buyer3.jpg" alt="slide 4">
                </div>
-               <div class="col col-md-6  d-flex h-75 align-items-center">
+               <div class="col col-md-6  d-flex align-items-center">
                  <blockquote class="blockquote blockquote-reverse">
                    <h3 class="mb-0"><span class="">Quality Premium Offers</span></h3>
                      <p class="mb-0 align-middle">The work is so professional,it's <span class="desktop-br"></span>really amazing.</p>
@@ -273,25 +273,25 @@
 
 
 
-
+  <!-- PreFooter section with a clearfix and card block hack on img tags within bt cards to allow anchor tags  -->
   <section class="pre-footer">
     <div class="card-group">
       <div class="card pre-footer_card">
-        <img class="card-img-top" src="//source.unsplash.com/collection/906559/401x401" alt="Card image cap">
+          <img class="card-img-top" src="//source.unsplash.com/collection/906559/401x401" alt="Card image cap">
         <div class="card-block">
           <h4 class="card-title">News/Press</h4>
           <!-- <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
         </div>
       </div>
-      <div class="card">
-        <img class="card-img-top" src="//source.unsplash.com/collection/906559/400x400" alt="Card image cap">
+      <div class="card pre-footer_card">
+      <a href="#" class="card-block clearfix"><img class="card-img-top" src="//source.unsplash.com/collection/906559/400x400" alt="Card image cap" /></a>
         <div class="card-block">
           <h4 class="card-title">Additional Support</h4>
           <!-- <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p> -->
         </div>
       </div>
-      <div class="card">
-        <img class="card-img-top" src="//source.unsplash.com/collection/906559/402x402" alt="Card image cap">
+      <div class="card pre-footer_card">
+      <img class="card-img-top" src="//source.unsplash.com/collection/906559/402x402" alt="Card image cap" />
         <div class="card-block">
           <h4 class="card-title">Chat/Support</h4>
           <!-- <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p> -->
@@ -331,7 +331,7 @@
                         <hr width="1" size="400px">
                       </div>
 
-                      <div class="col col-3">
+                      <div class="col col-3 footer_nologo">
                         <div class="title">Shop</div>
                         <a rel="nofollow" href="//dress-shirt-gift-certificate">Gift Certificates</a>
                         <a rel="nofollow" href="//sizes">Create a Custom Size</a>
@@ -343,7 +343,7 @@
                         <a rel="nofollow" href="//accessories">Accessories</a> &nbsp;
                       </div>
 
-                      <div class="col col-3">
+                      <div class="col col-3 footer_nologo">
                         <div class="title">Help</div>
                         <a rel="nofollow" href="//reference/ordering-fabric-samples/">Ordering Fabric Samples</a>
                         <a rel="nofollow" href="//reference/category/care/">How to Care for Shirts</a>
@@ -354,7 +354,7 @@
                         <a rel="nofollow" href="//shipping">Shipping &amp; Fast Delivery</a>
                       </div>
 
-                      <div class="col col-3">
+                      <div class="col col-3 footer_nologo">
                         <div class="title">Support</div>
                         <a rel="nofollow" href="//dress-shirt-reviews">Customer Reviews</a>
                         <a rel="nofollow" href="//account/orders">Track an Existing Order</a>

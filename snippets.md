@@ -104,3 +104,5 @@ http://ionicons.com/cheatsheet.html
 
 
 https://www.codeply.com/go/s3I9ivCBYH/bootstrap-4-responsive-carousel-one-at-a-time
+
+  font-family: "Brown", -apple-system,system-ui,BlinkMacSystemFont, sans-serif;
